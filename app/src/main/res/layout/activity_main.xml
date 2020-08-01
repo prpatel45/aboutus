@@ -68,7 +68,7 @@
         android:ems="10"
         android:inputType="textEmailAddress"
         android:text="asangani705@rku.ac.in"
-        android:textColor="@color/colorPrimaryDark"
+        android:textColor="@color/secondary_text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/username1" />
 
@@ -96,7 +96,7 @@
         android:ems="10"
         android:inputType="phone"
         android:text="6457890234"
-        android:textColor="@color/colorPrimaryDark"
+        android:textColor="@color/secondary_text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/mail1" />
 
@@ -148,7 +148,7 @@
         android:ems="10"
         android:inputType="textEmailAddress"
         android:text="ppanseriya601@rku.ac.in"
-        android:textColor="@color/colorPrimaryDark"
+        android:textColor="@color/secondary_text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/username2" />
 
@@ -175,7 +175,7 @@
         android:ems="10"
         android:inputType="phone"
         android:text="9978645312"
-        android:textColor="@color/colorPrimaryDark"
+        android:textColor="@color/secondary_text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/mail2" />
 
@@ -230,7 +230,7 @@
         android:ems="10"
         android:inputType="textEmailAddress"
         android:text="jgoraniya346@rku.ac.in"
-        android:textColor="@color/colorPrimaryDark"
+        android:textColor="@color/secondary_text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/username3" />
 
@@ -259,7 +259,7 @@
         android:ems="10"
         android:inputType="phone"
         android:text="8765489034"
-        android:textColor="@color/colorPrimaryDark"
+        android:textColor="@color/secondary_text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/mail3" />
 
